@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/Ro5635/myUniGreggs#readme",
   "dependencies": {
-    "geolib": "^3.0.4"
+    "bottleneck": "^2.19.5",
+    "geolib": "^3.0.4",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.2",
