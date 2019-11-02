@@ -1,9 +1,15 @@
+/**
+ * Hacky Script to rip two data sources together
+ *
+ */
 const fs = require('fs');
 const util = require('util');
 const fetch = require('node-fetch');
+// import Bottleneck from "bottleneck";
+const Bottleneck = require("bottleneck");
 
 const readFile = util.promisify(fs.readFile);
-const googleMapsAPIKey = 'AIzaSyAQmXN-29_lMunWTvsI-5hY5WbCKNhF63M';
+const googleMapsAPIKey = process.env.googelMapsAPIKey;
 const rawUniData = './uncleaned_uni_list.json';
 
 const getUniversitiesFromFile = async () => {
@@ -46,6 +52,8 @@ const getLocation = async ({placeId}) => {
         const getPlaceByPlaceIdResponse = await fetch(getPlaceByPlaceIdURL);
         const getPlaceByPlaceIdResponseJson = await getPlaceByPlaceIdResponse.json();
 
+        console.log(getPlaceByPlaceIdResponseJson);
+
         return getPlaceByPlaceIdResponseJson.result.geometry.location;
     } catch (error) {
         console.log(error);
@@ -56,13 +64,33 @@ const runable = async () => {
 
     let universitys = await getUniversitiesFromFile();
 
-    for (university of universitys) {
-        console.log(university);
-    }
-    // const matchingPlaceIds = await getPlaceIdFromName({placeName: 'Aston University'});
-    // // Assume that the 0th index is the closest match...
-    // const location = await getLocation({placeId: matchingPlaceIds[0]});
-    // console.log(location);
+    const limiter = new Bottleneck({
+        maxConcurrent: 1,
+        minTime: 1500
+    });
+
+    const getLocation_Limited = limiter.wrap(getLocation);
+    const getPlaceIdFromName_Limited = limiter.wrap(getPlaceIdFromName);
+    const timestamp = Date.now();
+    const fileName = `universities-${timestamp}.txt`;
+    const stream = fs.createWriteStream(fileName);
+
+    stream.once('open', async () => {
+        stream.write(`[`);
+        for (university of universitys) {
+            console.log(`Normalising: ${university.university}`);
+            const matchingPlaceIds = await getPlaceIdFromName_Limited({placeName: university.university});
+
+            // Assume that the 0th index is the closest match...
+            university.location = await getLocation_Limited({placeId: matchingPlaceIds[0]});
+            console.log(`Complected University ${university.university}`);
+
+            stream.write(`${JSON.stringify({university})},`);
+        }
+        stream.write(`]`);
+        stream.end();
+        console.log('FINISHED!');
+    });
 };
 
 runable();
