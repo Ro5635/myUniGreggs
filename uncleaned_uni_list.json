@@ -1,0 +1,905 @@
+{
+   "AECC University College": {
+      "Location": "Bournemouth",
+      "Established": "– (1965)",
+      "Number of students": "-",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "Anglia Ruskin University": {
+      "Location": "Cambridge, Chelmsford, Peterborough",
+      "Established": "1992 (1858)",
+      "Number of students": "22,245",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Arden University": {
+      "Location": "Coventry (distance learning)",
+      "Established": "2015 (1990)",
+      "Number of students": "8,000[7]",
+      "Tuition fee": "- (private)",
+      "Degree powers": "Taught"
+   },
+   "Arts University Bournemouth": {
+      "Location": "Poole",
+      "Established": "2012 (1885)",
+      "Number of students": "3,315",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "University of the Arts London": {
+      "Location": "London",
+      "Established": "2004",
+      "Number of students": "18,290",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Aston University": {
+      "Location": "Birmingham",
+      "Established": "1966 (1895)",
+      "Number of students": "13,610",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Bath": {
+      "Location": "Bath",
+      "Established": "1966",
+      "Number of students": "16,910",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Bath Spa University": {
+      "Location": "Bath",
+      "Established": "2005 (1852)",
+      "Number of students": "7,980",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Bedfordshire": {
+      "Location": "Bedford, Luton, Milton Keynes",
+      "Established": "1993",
+      "Number of students": "14,000",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Birmingham": {
+      "Location": "Birmingham",
+      "Established": "1900",
+      "Number of students": "34,835",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University College Birmingham[Note 3]": {
+      "Location": "Birmingham",
+      "Established": "2012 (1957)",
+      "Number of students": "4,935",
+      "Tuition fee": "£9,076[8]",
+      "Degree powers": "Taught"
+   },
+   "Birmingham City University": {
+      "Location": "Birmingham",
+      "Established": "1992 (1843)",
+      "Number of students": "24,130",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Bishop Grosseteste University": {
+      "Location": "Lincoln",
+      "Established": "2012 (1862)",
+      "Number of students": "2,225",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "University of Bolton": {
+      "Location": "Bolton",
+      "Established": "2004 (1982)",
+      "Number of students": "6,425",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Bournemouth University": {
+      "Location": "Bournemouth, Poole",
+      "Established": "1992",
+      "Number of students": "20,200",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "BPP University": {
+      "Location": "Abingdon, Birmingham, Bristol, Cambridge, Leeds, Liverpool, London, Manchester",
+      "Established": "2013 (1992)",
+      "Number of students": "6,780[9]",
+      "Tuition fee": "- (private)",
+      "Degree powers": "Taught"
+   },
+   "University of Bradford": {
+      "Location": "Bradford",
+      "Established": "1966 (1957)",
+      "Number of students": "10,960",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Brighton": {
+      "Location": "Brighton, Eastbourne, Hastings",
+      "Established": "1992 (1859)",
+      "Number of students": "21,655",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Bristol": {
+      "Location": "Bristol",
+      "Established": "1909 (1876)",
+      "Number of students": "23,590",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Brunel University London": {
+      "Location": "Uxbridge (London)",
+      "Established": "1966",
+      "Number of students": "13,130",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Buckingham": {
+      "Location": "Buckingham",
+      "Established": "1983 (1973)",
+      "Number of students": "2,520",
+      "Tuition fee": "£12,444 (private)",
+      "Degree powers": "Full"
+   },
+   "Buckinghamshire New University": {
+      "Location": "High Wycombe, Uxbridge (London)",
+      "Established": "2007 (1999)",
+      "Number of students": "8,870",
+      "Tuition fee": "£7,8-9,250",
+      "Degree powers": "Taught"
+   },
+   "University of Cambridge": {
+      "Location": "Cambridge",
+      "Established": "1209",
+      "Number of students": "19,955",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Canterbury Christ Church University": {
+      "Location": "Broadstairs, Canterbury, Medway, Tunbridge Wells",
+      "Established": "2005 (1977)",
+      "Number of students": "15,200",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Central Lancashire": {
+      "Location": "Preston",
+      "Established": "1992 (1828)",
+      "Number of students": "24,160",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Chester": {
+      "Location": "Chester, Warrington",
+      "Established": "2005 (1839)",
+      "Number of students": "15,325",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Chichester": {
+      "Location": "Chichester",
+      "Established": "2005 (1977)",
+      "Number of students": "5,540",
+      "Tuition fee": "£6,000–9,250",
+      "Degree powers": "Full"
+   },
+   "Coventry University": {
+      "Location": "Coventry",
+      "Established": "1992 (1843)",
+      "Number of students": "31,690",
+      "Tuition fee": "£6,009–9,250",
+      "Degree powers": "Full"
+   },
+   "Cranfield University": {
+      "Location": "Cranfield, Shrivenham",
+      "Established": "1993 (1946)",
+      "Number of students": "3,935",
+      "Tuition fee": "p/g only",
+      "Degree powers": "Full"
+   },
+   "University for the Creative Arts": {
+      "Location": "Canterbury, Epsom, Farnham, Maidstone, Rochester",
+      "Established": "2005",
+      "Number of students": "6,180",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "University of Cumbria": {
+      "Location": "Ambleside, Barrow, Carlisle, Lancaster, Penrith, Tower Hamlets (London)",
+      "Established": "2007",
+      "Number of students": "8,635",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "De Montfort University": {
+      "Location": "Leicester",
+      "Established": "1992 (1969)",
+      "Number of students": "23,205",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Derby": {
+      "Location": "Derby",
+      "Established": "1992 (1977)",
+      "Number of students": "17,585",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Durham University": {
+      "Location": "Durham, Stockton",
+      "Established": "1832",
+      "Number of students": "18,385",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of East Anglia": {
+      "Location": "Norwich",
+      "Established": "1963",
+      "Number of students": "17,195",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of East London": {
+      "Location": "Newham (London)",
+      "Established": "1992 (1970)",
+      "Number of students": "13,215",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Edge Hill University": {
+      "Location": "Ormskirk",
+      "Established": "2006 (1959)",
+      "Number of students": "15,220",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Essex": {
+      "Location": "Colchester",
+      "Established": "1964",
+      "Number of students": "14,585",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University College of Estate Management": {
+      "Location": "Reading",
+      "Established": "– (1919)",
+      "Number of students": "–",
+      "Tuition fee": "- (private)",
+      "Degree powers": "Taught"
+   },
+   "University of Exeter": {
+      "Location": "Exeter, Penryn",
+      "Established": "1955 (1922)",
+      "Number of students": "23,175",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Falmouth University": {
+      "Location": "Falmouth, Penryn",
+      "Established": "2012 (1902)",
+      "Number of students": "5,385",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "University of Gloucestershire": {
+      "Location": "Cheltenham, Gloucester",
+      "Established": "2001 (1998)",
+      "Number of students": "8,505",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Greenwich": {
+      "Location": "Chatham, Greenwich (London)",
+      "Established": "1992 (1890)",
+      "Number of students": "19,915",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Harper Adams University": {
+      "Location": "Edgmond",
+      "Established": "2012 (1901)",
+      "Number of students": "5,410",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Hertfordshire": {
+      "Location": "Hatfield",
+      "Established": "1992 (1952)",
+      "Number of students": "24,580",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Huddersfield": {
+      "Location": "Huddersfield",
+      "Established": "1992 (1825)",
+      "Number of students": "18,280",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Hull": {
+      "Location": "Hull, Scarborough",
+      "Established": "1954 (1927)",
+      "Number of students": "16,530",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Imperial College London[Note 4]": {
+      "Location": "South Kensington (London)",
+      "Established": "2007 (1907)",
+      "Number of students": "17,690",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Keele University": {
+      "Location": "Keele",
+      "Established": "1962 (1949)",
+      "Number of students": "10,600",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Kent": {
+      "Location": "Canterbury, Medway, Tonbridge, Athens, Brussels, Paris, Rome",
+      "Established": "1965",
+      "Number of students": "20,220",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Kingston University": {
+      "Location": "Kingston upon Thames",
+      "Established": "1992 (1899)",
+      "Number of students": "19,470",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Lancaster University": {
+      "Location": "Lancaster",
+      "Established": "1964",
+      "Number of students": "13,615",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Law": {
+      "Location": "Birmingham, Bristol, Chester, Guildford, Leeds, London",
+      "Established": "2012",
+      "Number of students": "16,000[citation needed]",
+      "Tuition fee": "£6,165-9,000[10]",
+      "Degree powers": "Taught"
+   },
+   "University of Leeds": {
+      "Location": "Leeds",
+      "Established": "1904",
+      "Number of students": "33,300",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Leeds Arts University": {
+      "Location": "Leeds",
+      "Established": "2017 (1846)[11]",
+      "Number of students": "1,425",
+      "Tuition fee": "",
+      "Degree powers": "Taught"
+   },
+   "Leeds Beckett University": {
+      "Location": "Leeds",
+      "Established": "1992 (1970)",
+      "Number of students": "24,885",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Leeds Trinity University": {
+      "Location": "Leeds",
+      "Established": "2012 (1966)",
+      "Number of students": "3,625",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "University of Leicester": {
+      "Location": "Leicester",
+      "Established": "1957 (1921)",
+      "Number of students": "16,800",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Lincoln": {
+      "Location": "Lincoln",
+      "Established": "1992",
+      "Number of students": "14,105",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Liverpool": {
+      "Location": "Liverpool",
+      "Established": "1903",
+      "Number of students": "27,070",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Liverpool Hope University": {
+      "Location": "Liverpool",
+      "Established": "2005 (1844)",
+      "Number of students": "5,240",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Liverpool John Moores University": {
+      "Location": "Liverpool",
+      "Established": "1992 (1892)",
+      "Number of students": "22,445",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of London": {
+      "Location": "London, Paris",
+      "Established": "1836",
+      "Number of students": "210[Note 5]",
+      "Tuition fee": "- (Fees set by colleges)",
+      "Degree powers": "Full"
+   },
+   "University of London→ Birkbeck, University of London": {
+      "Location": "London",
+      "Established": "– (1823)",
+      "Number of students": "12,915",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full, London"
+   },
+   "University of London→ City, University of London": {
+      "Location": "London",
+      "Established": "– (1894)",
+      "Number of students": "19,405",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full, London"
+   },
+   "University of London→ Courtauld Institute of Art": {
+      "Location": "London",
+      "Established": "– (1932)",
+      "Number of students": "495",
+      "Tuition fee": "£9,250",
+      "Degree powers": "London"
+   },
+   "University of London→ Goldsmiths, University of London": {
+      "Location": "London",
+      "Established": "– (1904)",
+      "Number of students": "9,345",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full, London"
+   },
+   "University of London→ Heythrop College": {
+      "Location": "London",
+      "Established": "– (1614)",
+      "Number of students": "425",
+      "Tuition fee": "No longer admitting students[12]",
+      "Degree powers": "Full, London"
+   },
+   "University of London→ Institute of Cancer Research": {
+      "Location": "London",
+      "Established": "– (1909)",
+      "Number of students": "275",
+      "Tuition fee": "p/g only",
+      "Degree powers": "London"
+   },
+   "University of London→ King's College London": {
+      "Location": "London",
+      "Established": "– (1829) founding college",
+      "Number of students": "30,565",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full, London"
+   },
+   "University of London→ London Business School": {
+      "Location": "London",
+      "Established": "– (1964)",
+      "Number of students": "2,060",
+      "Tuition fee": "p/g only",
+      "Degree powers": "Full, London"
+   },
+   "University of London→ London School of Economics": {
+      "Location": "London",
+      "Established": "– (1895)",
+      "Number of students": "11,210",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full, London"
+   },
+   "University of London→ London School of Hygiene & Tropical Medicine": {
+      "Location": "London",
+      "Established": "– (1899)",
+      "Number of students": "1,345",
+      "Tuition fee": "p/g only",
+      "Degree powers": "Full, London"
+   },
+   "University of London→ Queen Mary, University of London": {
+      "Location": "London",
+      "Established": "– (1887)",
+      "Number of students": "18,890",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full, London"
+   },
+   "University of London→ Royal Academy of Music": {
+      "Location": "London",
+      "Established": "– (1822)",
+      "Number of students": "820",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught, London"
+   },
+   "University of London→ Royal Central School of Speech and Drama": {
+      "Location": "London",
+      "Established": "– (1906)",
+      "Number of students": "1,100",
+      "Tuition fee": "£9,250",
+      "Degree powers": "London"
+   },
+   "University of London→ Royal Holloway, University of London": {
+      "Location": "Surrey",
+      "Established": "– (1849)",
+      "Number of students": "10,325",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full, London"
+   },
+   "University of London→ Royal Veterinary College": {
+      "Location": "London, Hertfordshire",
+      "Established": "– (1791)",
+      "Number of students": "2,375",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full, London"
+   },
+   "University of London→ St George's, University of London": {
+      "Location": "London",
+      "Established": "– (1733)",
+      "Number of students": "4,855",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full, London"
+   },
+   "University of London→ School of Oriental and African Studies": {
+      "Location": "London",
+      "Established": "– (1916)",
+      "Number of students": "6,360",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full, London"
+   },
+   "University of London→ University College London": {
+      "Location": "London",
+      "Established": "– (1826) founding college",
+      "Number of students": "37,905",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full, London"
+   },
+   "London Institute of Banking & Finance[Note 6]": {
+      "Location": "London",
+      "Established": "– (1879)",
+      "Number of students": "-",
+      "Tuition fee": "- (private)",
+      "Degree powers": "Taught"
+   },
+   "London Metropolitan University": {
+      "Location": "London",
+      "Established": "2002",
+      "Number of students": "12,145",
+      "Tuition fee": "£6,750-9,250",
+      "Degree powers": "Full"
+   },
+   "London South Bank University": {
+      "Location": "Southwark (London)",
+      "Established": "1992 (1892)",
+      "Number of students": "17,985",
+      "Tuition fee": "£9,000",
+      "Degree powers": "Full"
+   },
+   "Loughborough University": {
+      "Location": "Loughborough",
+      "Established": "1966",
+      "Number of students": "17,130",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Manchester": {
+      "Location": "Manchester",
+      "Established": "2004 (1824)",
+      "Number of students": "40,490",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Manchester Metropolitan University": {
+      "Location": "Manchester",
+      "Established": "1992 (1970)",
+      "Number of students": "33,010",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Middlesex University": {
+      "Location": "Hendon (London)",
+      "Established": "1992 (1973)",
+      "Number of students": "19,505",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Newcastle University": {
+      "Location": "Newcastle",
+      "Established": "1963 (1834)",
+      "Number of students": "24,980",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Newman University": {
+      "Location": "Birmingham",
+      "Established": "2012 (1968)",
+      "Number of students": "2,830",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "University of Northampton": {
+      "Location": "Northampton",
+      "Established": "2005 (1975)",
+      "Number of students": "12,850",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Northumbria University": {
+      "Location": "Newcastle",
+      "Established": "1992 (1892)",
+      "Number of students": "26,675",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Norwich University of the Arts": {
+      "Location": "Norwich",
+      "Established": "2012 (1845)",
+      "Number of students": "2,180",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "University of Nottingham": {
+      "Location": "Nottingham",
+      "Established": "1948 (1881)",
+      "Number of students": "32,515",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Nottingham Trent University": {
+      "Location": "Nottingham",
+      "Established": "1992 (1843)",
+      "Number of students": "29,370",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Open University": {
+      "Location": "Milton Keynes",
+      "Established": "1969",
+      "Number of students": "101,490[Note 7]",
+      "Tuition fee": "-",
+      "Degree powers": "Full"
+   },
+   "University College of Osteopathy": {
+      "Location": "London",
+      "Established": "– (1917)",
+      "Number of students": "-",
+      "Tuition fee": "-",
+      "Degree powers": "Taught"
+   },
+   "University of Oxford": {
+      "Location": "Oxford",
+      "Established": "1096",
+      "Number of students": "24,650",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Oxford Brookes University": {
+      "Location": "Oxford",
+      "Established": "1992 (1970)",
+      "Number of students": "17,805",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Plymouth University": {
+      "Location": "Plymouth",
+      "Established": "1992 (1862)[13][14]",
+      "Number of students": "21,645",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Portsmouth": {
+      "Location": "Portsmouth",
+      "Established": "1992 (1960)",
+      "Number of students": "23,505",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Ravensbourne University London": {
+      "Location": "London",
+      "Established": "2018 (1962)",
+      "Number of students": "-",
+      "Tuition fee": "-",
+      "Degree powers": "Taught"
+   },
+   "University of Reading": {
+      "Location": "Reading",
+      "Established": "1926 (1892)",
+      "Number of students": "15,840",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Regent's University London": {
+      "Location": "London",
+      "Established": "2013 (1984)",
+      "Number of students": "–",
+      "Tuition fee": "- (private)",
+      "Degree powers": "Taught"
+   },
+   "Roehampton University": {
+      "Location": "Roehampton (London)",
+      "Established": "2004 (1841)",
+      "Number of students": "10,205",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "Royal Agricultural University": {
+      "Location": "Cirencester",
+      "Established": "2012 (1845)",
+      "Number of students": "1,280",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "University of Salford": {
+      "Location": "Salford",
+      "Established": "1967",
+      "Number of students": "19,995",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Sheffield": {
+      "Location": "Sheffield",
+      "Established": "1905",
+      "Number of students": "28,715",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Sheffield Hallam University": {
+      "Location": "Sheffield",
+      "Established": "1992",
+      "Number of students": "30,815",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Southampton": {
+      "Location": "Southampton",
+      "Established": "1952 (1902)",
+      "Number of students": "25,180",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Southampton Solent University": {
+      "Location": "Southampton",
+      "Established": "2005 (1984)",
+      "Number of students": "11,060",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of St Mark & St John": {
+      "Location": "Plymouth",
+      "Established": "2012 (1923)",
+      "Number of students": "2,415",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "St Mary's University, Twickenham": {
+      "Location": "Strawberry Hill (London)",
+      "Established": "2014 (1850)",
+      "Number of students": "5,535",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "Staffordshire University": {
+      "Location": "Lichfield, Shrewsbury, Stafford, Stoke",
+      "Established": "1992",
+      "Number of students": "14,910",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Suffolk": {
+      "Location": "Ipswich, Bury St Edmunds, Great Yarmouth, Lowestoft",
+      "Established": "2016 (2007)",
+      "Number of students": "5,080",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "University of Sunderland": {
+      "Location": "Sunderland",
+      "Established": "1992 (1901)",
+      "Number of students": "13,020",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Surrey": {
+      "Location": "Guildford",
+      "Established": "1966 (1891)",
+      "Number of students": "16,065",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Sussex": {
+      "Location": "Falmer",
+      "Established": "1961",
+      "Number of students": "16,685",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Teesside University": {
+      "Location": "Darlington, Middlesbrough",
+      "Established": "1992 (1930)",
+      "Number of students": "18,555",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Warwick": {
+      "Location": "Coventry",
+      "Established": "1965",
+      "Number of students": "25,045",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of West London": {
+      "Location": "Brentford, Ealing (both London), Reading",
+      "Established": "1992",
+      "Number of students": "10,390",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of the West of England": {
+      "Location": "Bristol",
+      "Established": "1992 (1595)",
+      "Number of students": "27,880",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Westminster": {
+      "Location": "London",
+      "Established": "1992 (1838)",
+      "Number of students": "19,650",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Winchester": {
+      "Location": "Winchester",
+      "Established": "2005 (1840)",
+      "Number of students": "7,540",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "University of Wolverhampton": {
+      "Location": "Burton, Telford, Walsall, Wolverhampton",
+      "Established": "1992 (1969)",
+      "Number of students": "19,560",
+      "Tuition fee": "£9,250[15]",
+      "Degree powers": "Full"
+   },
+   "University of Worcester": {
+      "Location": "Worcester",
+      "Established": "1997",
+      "Number of students": "10,745",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "Writtle University College": {
+      "Location": "Chelmsford",
+      "Established": "– (1893)",
+      "Number of students": "775",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Taught"
+   },
+   "University of York": {
+      "Location": "York",
+      "Established": "1963",
+      "Number of students": "17,900",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   },
+   "York St John University": {
+      "Location": "York",
+      "Established": "2006 (1841)",
+      "Number of students": "5,940",
+      "Tuition fee": "£9,250",
+      "Degree powers": "Full"
+   }
+}
