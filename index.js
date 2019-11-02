@@ -61,7 +61,6 @@ const getLocation = async ({placeId}) => {
 };
 
 const runable = async () => {
-
     let universitys = await getUniversitiesFromFile();
 
     const limiter = new Bottleneck({
@@ -72,7 +71,7 @@ const runable = async () => {
     const getLocation_Limited = limiter.wrap(getLocation);
     const getPlaceIdFromName_Limited = limiter.wrap(getPlaceIdFromName);
     const timestamp = Date.now();
-    const fileName = `universities-${timestamp}.txt`;
+    const fileName = `universities-${timestamp}.json`;
     const stream = fs.createWriteStream(fileName);
 
     stream.once('open', async () => {
