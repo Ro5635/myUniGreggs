@@ -5,6 +5,7 @@ import (
 	"strings"
 )
 
+// octNode a node in the
 type octNode struct {
 	uni        Uni
 	children   []octNode
@@ -35,7 +36,7 @@ func buildOcttree(unis []Uni, root *octNode) {
 	}
 
 	// Remove empty leafs
-	// removeEmpty(root)
+	removeEmpty(root)
 
 }
 
@@ -52,25 +53,28 @@ func inside(uni Uni, node octNode) bool {
 }
 
 func octInsert(uni Uni, node *octNode) {
-	// Try to insert particle i at node n in Octtree
-	// By construction, each leaf will contain either
-	// 1 or 0 particles
+	// Find the correct node to insert the data into
 	if len((*node).children) > 1 {
-		// if the subtree rooted at n contains more than 1 particle
-		// determine which child c of node n particle i lies in
-		for _, child := range (*node).children {
-			if inside(uni, child) {
-				octInsert(uni, &child)
+		// Check if the node has children
+		// then find the correct leaf to insert the data into
+		// Loop through the children of the node and
+		// check which leaf the data should be contained
+		for i := 0; i < len((*node).children); i++ {
+			if inside(uni, (*node).children[i]) {
+				octInsert(uni, &(*node).children[i])
 			}
 		}
-	} else if !(*node).empty {
-		fmt.Printf("Add leafs\n")
-		// if the subtree rooted at n contains one particle
-		// n is a leaf
-		// add n's eight children to the octtree
+	} else if !(*node).empty && len((*node).children) == 0 {
+		// if the node is not empty and does not have any children
+		// split the node into 8 empty leafs.
+		// Then insert the orginal node's data into a new leaf.
+		// Find the leaf for the new data and insert it.
+
+		// Create the new leafs
 		for i := 0; i < 2; i++ {
 			for j := 0; j < 2; j++ {
 				for k := 0; k < 2; k++ {
+					// Create a new leaf with half the dx, dy and dz
 					(*node).children = append(
 						(*node).children,
 						newOctNode(node,
@@ -81,36 +85,38 @@ func octInsert(uni Uni, node *octNode) {
 			}
 		}
 
-		// move the particle already in n into the child
-		// in which it lies
-		for _, child := range (*node).children {
-			if inside((*node).uni, child) {
-				octInsert((*node).uni, &child)
+		// Insert the original node's data into the correct leaf
+		for i := 0; i < len((*node).children); i++ {
+			if inside((*node).uni, (*node).children[i]) {
+				octInsert((*node).uni, &(*node).children[i])
 			}
 		}
 
-		// let c be child in which particle i lie
-		for _, child := range (*node).children {
-			if inside(uni, child) {
-				octInsert(uni, &child)
+		// Find the child to insert the new data in
+		for i := 0; i < len((*node).children); i++ {
+			if inside(uni, (*node).children[i]) {
+				octInsert(uni, &(*node).children[i])
 			}
 		}
+
+		(*node).uni = Uni{}
 	} else if (*node).empty {
-		// if the subtree rooted at n is empty
-		// n is a leaf
-		// store particle i in node n
+		// if the node is empty then insert the data into
+		// the leaf node
 		(*node).uni = uni
 		(*node).empty = false
-		fmt.Printf("Adding Uni: %v\n", uni.name)
 	}
 }
 
 func removeEmpty(node *octNode) {
+	// remove any emptyleaf nodes
 	for i := len((*node).children) - 1; i >= 0; i-- {
-		if (*node).children[i].empty {
+		if (*node).children[i].empty && len((*node).children) == 0 {
+			// if the leaf is empty and has no children remove
 			(*node).children = append((*node).children[:i], (*node).children[i+1:]...)
-			fmt.Printf("Remove Empty\n")
 		} else if len((*node).children[i].children) > 0 {
+			// if the node has children check the children
+			// for empty nodes
 			removeEmpty(&(*node).children[i])
 		}
 	}
@@ -118,7 +124,7 @@ func removeEmpty(node *octNode) {
 
 func printOctTree(node *octNode, indents int) {
 	fmt.Printf("%v%v: %v\n", strings.Repeat("\t", indents), (*node).uni.name, (*node).empty)
-	for i := len((*node).children) - 1; i >= 0; i-- {
+	for i := 0; i < len((*node).children); i++ {
 		if len((*node).children[i].children) > 0 {
 			printOctTree(&(*node).children[i], indents+1)
 		} else {
