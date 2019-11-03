@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
-    <title>MyUniGreggs</title>
+    <title>MyUniGreggs </title>
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
 </head>
@@ -14,7 +14,7 @@
 <body>
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="index.html">MyUniGreggs</a>
+            <a class="navbar-brand" href="index.html">MyUniGreggs ❤ AstonHack</a>
         </div>
     </nav>
     <header>
@@ -24,8 +24,8 @@
                     <div class="d-flex align-items-center justify-content-center h-100">
                         <div class="d-flex flex-column">
                             <h1 class="text align-self-center p-2 text-center" style="font-size: 3em;">Some unis have
-                                more Greggs than others</h1>
-                            <h2 class="text align-self-center p-2" style="font-size: 2em;">How does your uni compare?
+                                more Greggs than others 😱</h1>
+                            <h2 class="text align-self-center p-2" style="font-size: 2em;">How does your uni compare? 🤔
                             </h2>
 
                             <div class="d-inline mx-auto center">
@@ -60,7 +60,7 @@
     <!-- Footer -->
     <footer class="py-5 bg-dark">
         <div class="container">
-            <p class="m-0 text-center text-white">MyUniGreggs</p>
+            <p class="m-0 text-center text-white" style="font-size: 1.5em">MyUniGreggs ❤ AstonHack</p>
         </div>
         <!-- /.container -->
     </footer>
@@ -72,7 +72,7 @@
         // Initialize and add the map
         function initMap() {
             var initLocation = { lat: 52.4869, lng: -1.8882 };
-            var map = new google.maps.Map(
+            window.map = new google.maps.Map(
                 document.getElementById('map-custom'), { zoom: 8, center: initLocation });
             var marker = new google.maps.Marker({ position: initLocation, map: map });
         }
@@ -80,5 +80,6 @@
     <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBoozcmMyocBVK9cXDCMqZ9EuFxFIzFUX8&callback=initMap">
         </script>
+        <script src="./interactivity.js"></script>
 </body>
 </html>
