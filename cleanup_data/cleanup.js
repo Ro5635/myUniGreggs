@@ -7,6 +7,7 @@ const cleanUniData = '../universities-cleaned.json';
 const cleanGreggsFile = '../greggs.json';
 const radius = 5000; // 5km
 const propietarySugar = 100; // magic number baby
+const propietarySugar = 1000; // magic number baby
 
 
 // 1 - Get the list of greggs
