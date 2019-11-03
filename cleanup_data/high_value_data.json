@@ -1,0 +1,986 @@
+[
+    {
+        "name": "Anglia Ruskin University",
+        "numStudents": 22245,
+        "latitude": 52.20326719999999,
+        "longitude": 0.1345112,
+        "numGreggsInViscinity": 1,
+        "greggsDensity": 0.04495392222971454
+    },
+    {
+        "name": "Arden University",
+        "numStudents": null,
+        "latitude": 52.369806,
+        "longitude": -1.4677799,
+        "numGreggsInViscinity": 4,
+        "greggsDensity": null
+    },
+    {
+        "name": "Arts University Bournemouth",
+        "numStudents": 3315,
+        "latitude": 50.74100000000001,
+        "longitude": -1.897931,
+        "numGreggsInViscinity": 7,
+        "greggsDensity": 2.1116138763197587
+    },
+    {
+        "name": "University of the Arts London",
+        "numStudents": 18290,
+        "latitude": 51.5177902,
+        "longitude": -0.1165424,
+        "numGreggsInViscinity": 31,
+        "greggsDensity": 1.694915254237288
+    },
+    {
+        "name": "Aston University",
+        "numStudents": 13610,
+        "latitude": 52.48685839999999,
+        "longitude": -1.8882174,
+        "numGreggsInViscinity": 21,
+        "greggsDensity": 1.5429831006612784
+    },
+    {
+        "name": "University of Bath",
+        "numStudents": 16910,
+        "latitude": 51.3782228,
+        "longitude": -2.3263987,
+        "numGreggsInViscinity": 3,
+        "greggsDensity": 0.17740981667652278
+    },
+    {
+        "name": "Bath Spa University",
+        "numStudents": 7980,
+        "latitude": 51.3755553,
+        "longitude": -2.4382603,
+        "numGreggsInViscinity": 1,
+        "greggsDensity": 0.12531328320802004
+    },
+    {
+        "name": "University of Bedfordshire",
+        "numStudents": 14000,
+        "latitude": 51.8778602,
+        "longitude": -0.4092921,
+        "numGreggsInViscinity": 6,
+        "greggsDensity": 0.42857142857142855
+    },
+    {
+        "name": "University of Birmingham",
+        "numStudents": 34835,
+        "latitude": 52.4508168,
+        "longitude": -1.9305135,
+        "numGreggsInViscinity": 21,
+        "greggsDensity": 0.6028419692837663
+    },
+    {
+        "name": "University College Birmingham[Note 3]",
+        "numStudents": 4935,
+        "latitude": 52.4813851,
+        "longitude": -1.9063332,
+        "numGreggsInViscinity": 21,
+        "greggsDensity": 4.25531914893617
+    },
+    {
+        "name": "Birmingham City University",
+        "numStudents": 24130,
+        "latitude": 52.4829338,
+        "longitude": -1.8830502,
+        "numGreggsInViscinity": 19,
+        "greggsDensity": 0.7874015748031495
+    },
+    {
+        "name": "Bishop Grosseteste University",
+        "numStudents": 2225,
+        "latitude": 53.24382259999999,
+        "longitude": -0.5364247,
+        "numGreggsInViscinity": 2,
+        "greggsDensity": 0.8988764044943821
+    },
+    {
+        "name": "University of Bolton",
+        "numStudents": 6425,
+        "latitude": 53.57287899999999,
+        "longitude": -2.437932,
+        "numGreggsInViscinity": 4,
+        "greggsDensity": 0.622568093385214
+    },
+    {
+        "name": "Bournemouth University",
+        "numStudents": 20200,
+        "latitude": 50.74244729999999,
+        "longitude": -1.8961022,
+        "numGreggsInViscinity": 7,
+        "greggsDensity": 0.3465346534653465
+    },
+    {
+        "name": "BPP University",
+        "numStudents": null,
+        "latitude": 52.4831671,
+        "longitude": -1.8955753,
+        "numGreggsInViscinity": 20,
+        "greggsDensity": null
+    },
+    {
+        "name": "University of Bradford",
+        "numStudents": 10960,
+        "latitude": 53.79154879999999,
+        "longitude": -1.766240199999999,
+        "numGreggsInViscinity": 13,
+        "greggsDensity": 1.1861313868613137
+    },
+    {
+        "name": "University of Brighton",
+        "numStudents": 21655,
+        "latitude": 50.8241451,
+        "longitude": -0.1355195,
+        "numGreggsInViscinity": 3,
+        "greggsDensity": 0.1385361348418379
+    },
+    {
+        "name": "University of Bristol",
+        "numStudents": 23590,
+        "latitude": 51.4584172,
+        "longitude": -2.6029792,
+        "numGreggsInViscinity": 11,
+        "greggsDensity": 0.4662992793556592
+    },
+    {
+        "name": "Brunel University London",
+        "numStudents": 13130,
+        "latitude": 51.5324044,
+        "longitude": -0.4729930999999999,
+        "numGreggsInViscinity": 6,
+        "greggsDensity": 0.456968773800457
+    },
+    {
+        "name": "University of Buckingham",
+        "numStudents": 2520,
+        "latitude": 51.9953909,
+        "longitude": -0.9916666,
+        "numGreggsInViscinity": 1,
+        "greggsDensity": 0.3968253968253968
+    },
+    {
+        "name": "Buckinghamshire New University",
+        "numStudents": 8870,
+        "latitude": 51.6279158,
+        "longitude": -0.7534042000000001,
+        "numGreggsInViscinity": 2,
+        "greggsDensity": 0.2254791431792559
+    },
+    {
+        "name": "University of Cambridge",
+        "numStudents": 19955,
+        "latitude": 52.20426659999999,
+        "longitude": 0.1149085,
+        "numGreggsInViscinity": 1,
+        "greggsDensity": 0.05011275369581559
+    },
+    {
+        "name": "Canterbury Christ Church University",
+        "numStudents": 15200,
+        "latitude": 51.277939,
+        "longitude": 1.090659,
+        "numGreggsInViscinity": 2,
+        "greggsDensity": 0.13157894736842105
+    },
+    {
+        "name": "University of Central Lancashire",
+        "numStudents": 24160,
+        "latitude": 53.7641378,
+        "longitude": -2.7092453,
+        "numGreggsInViscinity": 10,
+        "greggsDensity": 0.4139072847682119
+    },
+    {
+        "name": "University of Chester",
+        "numStudents": 15325,
+        "latitude": 53.20027109999999,
+        "longitude": -2.8991705,
+        "numGreggsInViscinity": 5,
+        "greggsDensity": 0.3262642740619902
+    },
+    {
+        "name": "University of Chichester",
+        "numStudents": 5540,
+        "latitude": 50.8450307,
+        "longitude": -0.7728918,
+        "numGreggsInViscinity": 1,
+        "greggsDensity": 0.18050541516245486
+    },
+    {
+        "name": "Coventry University",
+        "numStudents": 31690,
+        "latitude": 52.4071747,
+        "longitude": -1.5037461,
+        "numGreggsInViscinity": 15,
+        "greggsDensity": 0.4733354370463869
+    },
+    {
+        "name": "Cranfield University",
+        "numStudents": 3935,
+        "latitude": 52.0746136,
+        "longitude": -0.6282833000000001,
+        "numGreggsInViscinity": 0,
+        "greggsDensity": 0
+    },
+    {
+        "name": "University for the Creative Arts",
+        "numStudents": 6180,
+        "latitude": 51.2150866,
+        "longitude": -0.8053730000000001,
+        "numGreggsInViscinity": 1,
+        "greggsDensity": 0.16181229773462782
+    },
+    {
+        "name": "University of Cumbria",
+        "numStudents": 8635,
+        "latitude": 54.89087599999999,
+        "longitude": -2.922234,
+        "numGreggsInViscinity": 5,
+        "greggsDensity": 0.5790387955993052
+    },
+    {
+        "name": "De Montfort University",
+        "numStudents": 23205,
+        "latitude": 52.6298007,
+        "longitude": -1.1396424,
+        "numGreggsInViscinity": 11,
+        "greggsDensity": 0.4740357681534152
+    },
+    {
+        "name": "University of Derby",
+        "numStudents": 17585,
+        "latitude": 52.9378778,
+        "longitude": -1.4972811,
+        "numGreggsInViscinity": 8,
+        "greggsDensity": 0.4549331816889394
+    },
+    {
+        "name": "Durham University",
+        "numStudents": 18385,
+        "latitude": 54.7649859,
+        "longitude": -1.5782029,
+        "numGreggsInViscinity": 6,
+        "greggsDensity": 0.3263530051672559
+    },
+    {
+        "name": "University of East Anglia",
+        "numStudents": 17195,
+        "latitude": 52.6219215,
+        "longitude": 1.2391761,
+        "numGreggsInViscinity": 8,
+        "greggsDensity": 0.4652515266065717
+    },
+    {
+        "name": "University of East London",
+        "numStudents": 13215,
+        "latitude": 51.5076024,
+        "longitude": 0.0650809,
+        "numGreggsInViscinity": 11,
+        "greggsDensity": 0.8323874385168369
+    },
+    {
+        "name": "Edge Hill University",
+        "numStudents": 15220,
+        "latitude": 53.5596834,
+        "longitude": -2.8738498,
+        "numGreggsInViscinity": 2,
+        "greggsDensity": 0.1314060446780552
+    },
+    {
+        "name": "University of Essex",
+        "numStudents": 14585,
+        "latitude": 51.87772589999999,
+        "longitude": 0.9472069000000001,
+        "numGreggsInViscinity": 3,
+        "greggsDensity": 0.20569077819677753
+    },
+    {
+        "name": "University of Exeter",
+        "numStudents": 23175,
+        "latitude": 50.7371369,
+        "longitude": -3.5351475,
+        "numGreggsInViscinity": 4,
+        "greggsDensity": 0.17259978425026967
+    },
+    {
+        "name": "Falmouth University",
+        "numStudents": 5385,
+        "latitude": 50.1712678,
+        "longitude": -5.1238373,
+        "numGreggsInViscinity": 0,
+        "greggsDensity": 0
+    },
+    {
+        "name": "University of Gloucestershire",
+        "numStudents": 8505,
+        "latitude": 51.8881379,
+        "longitude": -2.0874135,
+        "numGreggsInViscinity": 3,
+        "greggsDensity": 0.35273368606701944
+    },
+    {
+        "name": "University of Greenwich",
+        "numStudents": 19915,
+        "latitude": 51.4829308,
+        "longitude": -0.006994999999999999,
+        "numGreggsInViscinity": 11,
+        "greggsDensity": 0.5523474767762993
+    },
+    {
+        "name": "Harper Adams University",
+        "numStudents": 5410,
+        "latitude": 52.7794512,
+        "longitude": -2.4271346,
+        "numGreggsInViscinity": 2,
+        "greggsDensity": 0.3696857670979667
+    },
+    {
+        "name": "University of Hertfordshire",
+        "numStudents": 24580,
+        "latitude": 51.76136839999999,
+        "longitude": -0.2482228,
+        "numGreggsInViscinity": 0,
+        "greggsDensity": 0
+    },
+    {
+        "name": "University of Huddersfield",
+        "numStudents": 18280,
+        "latitude": 53.643727,
+        "longitude": -1.7787888,
+        "numGreggsInViscinity": 8,
+        "greggsDensity": 0.437636761487965
+    },
+    {
+        "name": "University of Hull",
+        "numStudents": 16530,
+        "latitude": 53.773162,
+        "longitude": -0.3677464,
+        "numGreggsInViscinity": 8,
+        "greggsDensity": 0.4839685420447671
+    },
+    {
+        "name": "Imperial College London[Note 4]",
+        "numStudents": 17690,
+        "latitude": 51.49879970000001,
+        "longitude": -0.1748772,
+        "numGreggsInViscinity": 28,
+        "greggsDensity": 1.582815149802148
+    },
+    {
+        "name": "Keele University",
+        "numStudents": 10600,
+        "latitude": 53.00343729999999,
+        "longitude": -2.272053000000001,
+        "numGreggsInViscinity": 2,
+        "greggsDensity": 0.18867924528301885
+    },
+    {
+        "name": "University of Kent",
+        "numStudents": 20220,
+        "latitude": 51.297233,
+        "longitude": 1.0632172,
+        "numGreggsInViscinity": 3,
+        "greggsDensity": 0.14836795252225518
+    },
+    {
+        "name": "Kingston University",
+        "numStudents": 19470,
+        "latitude": 51.4032431,
+        "longitude": -0.3034882,
+        "numGreggsInViscinity": 7,
+        "greggsDensity": 0.35952747817154596
+    },
+    {
+        "name": "Lancaster University",
+        "numStudents": 13615,
+        "latitude": 54.01039420000001,
+        "longitude": -2.7877294,
+        "numGreggsInViscinity": 3,
+        "greggsDensity": 0.22034520749173706
+    },
+    {
+        "name": "University of Law",
+        "numStudents": null,
+        "latitude": 52.48867399999999,
+        "longitude": -1.9076201,
+        "numGreggsInViscinity": 21,
+        "greggsDensity": null
+    },
+    {
+        "name": "University of Leeds",
+        "numStudents": 33300,
+        "latitude": 53.8066815,
+        "longitude": -1.5550328,
+        "numGreggsInViscinity": 26,
+        "greggsDensity": 0.7807807807807807
+    },
+    {
+        "name": "Leeds Arts University",
+        "numStudents": 1425,
+        "latitude": 53.808845,
+        "longitude": -1.551577,
+        "numGreggsInViscinity": 26,
+        "greggsDensity": 18.24561403508772
+    },
+    {
+        "name": "Leeds Beckett University",
+        "numStudents": 24885,
+        "latitude": 53.80364249999999,
+        "longitude": -1.5474292,
+        "numGreggsInViscinity": 25,
+        "greggsDensity": 1.0046212577858147
+    },
+    {
+        "name": "Leeds Trinity University",
+        "numStudents": 3625,
+        "latitude": 53.8483885,
+        "longitude": -1.6455383,
+        "numGreggsInViscinity": 6,
+        "greggsDensity": 1.6551724137931034
+    },
+    {
+        "name": "University of Leicester",
+        "numStudents": 16800,
+        "latitude": 52.6211393,
+        "longitude": -1.1246325,
+        "numGreggsInViscinity": 12,
+        "greggsDensity": 0.7142857142857143
+    },
+    {
+        "name": "University of Lincoln",
+        "numStudents": 14105,
+        "latitude": 53.2279107,
+        "longitude": -0.5501933,
+        "numGreggsInViscinity": 3,
+        "greggsDensity": 0.21269053527118043
+    },
+    {
+        "name": "University of Liverpool",
+        "numStudents": 27070,
+        "latitude": 53.40478239999999,
+        "longitude": -2.965299,
+        "numGreggsInViscinity": 21,
+        "greggsDensity": 0.7757665312153675
+    },
+    {
+        "name": "Liverpool Hope University",
+        "numStudents": 5240,
+        "latitude": 53.3908007,
+        "longitude": -2.8922988,
+        "numGreggsInViscinity": 6,
+        "greggsDensity": 1.1450381679389314
+    },
+    {
+        "name": "Liverpool John Moores University",
+        "numStudents": 22445,
+        "latitude": 53.40537,
+        "longitude": -2.9725544,
+        "numGreggsInViscinity": 22,
+        "greggsDensity": 0.9801737580752953
+    },
+    {
+        "name": "University of London",
+        "numStudents": null,
+        "latitude": 51.5229378,
+        "longitude": -0.1308206,
+        "numGreggsInViscinity": 32,
+        "greggsDensity": null
+    },
+    {
+        "name": "University of London→ Birkbeck, University of London",
+        "numStudents": 12915,
+        "latitude": 51.5219696,
+        "longitude": -0.1300479,
+        "numGreggsInViscinity": 31,
+        "greggsDensity": 2.4003097173828882
+    },
+    {
+        "name": "University of London→ City, University of London",
+        "numStudents": 19405,
+        "latitude": 51.5278409,
+        "longitude": -0.102509,
+        "numGreggsInViscinity": 31,
+        "greggsDensity": 1.5975264107188867
+    },
+    {
+        "name": "University of London→ Courtauld Institute of Art",
+        "numStudents": 495,
+        "latitude": 51.5116015,
+        "longitude": -0.1173968,
+        "numGreggsInViscinity": 33,
+        "greggsDensity": 66.66666666666667
+    },
+    {
+        "name": "University of London→ Goldsmiths, University of London",
+        "numStudents": 9345,
+        "latitude": 51.47427099999999,
+        "longitude": -0.03540799999999999,
+        "numGreggsInViscinity": 16,
+        "greggsDensity": 1.7121455323702515
+    },
+    {
+        "name": "University of London→ Heythrop College",
+        "numStudents": 425,
+        "latitude": 51.4992505,
+        "longitude": -0.1903322,
+        "numGreggsInViscinity": 20,
+        "greggsDensity": 47.05882352941176
+    },
+    {
+        "name": "University of London→ Institute of Cancer Research",
+        "numStudents": 275,
+        "latitude": 51.34467000000001,
+        "longitude": -0.189075,
+        "numGreggsInViscinity": 4,
+        "greggsDensity": 14.545454545454545
+    },
+    {
+        "name": "University of London→ King's College London",
+        "numStudents": 30565,
+        "latitude": 51.51148639999999,
+        "longitude": -0.115997,
+        "numGreggsInViscinity": 33,
+        "greggsDensity": 1.0796662849664649
+    },
+    {
+        "name": "University of London→ London Business School",
+        "numStudents": 2060,
+        "latitude": 51.5261552,
+        "longitude": -0.160668,
+        "numGreggsInViscinity": 24,
+        "greggsDensity": 11.650485436893204
+    },
+    {
+        "name": "University of London→ London School of Economics",
+        "numStudents": 11210,
+        "latitude": 51.5144388,
+        "longitude": -0.1164513,
+        "numGreggsInViscinity": 32,
+        "greggsDensity": 2.854594112399643
+    },
+    {
+        "name": "University of London→ London School of Hygiene & Tropical Medicine",
+        "numStudents": 1345,
+        "latitude": 51.5206266,
+        "longitude": -0.1300053,
+        "numGreggsInViscinity": 32,
+        "greggsDensity": 23.79182156133829
+    },
+    {
+        "name": "University of London→ Queen Mary, University of London",
+        "numStudents": 18890,
+        "latitude": 51.5240671,
+        "longitude": -0.04037449999999999,
+        "numGreggsInViscinity": 18,
+        "greggsDensity": 0.9528851244044468
+    },
+    {
+        "name": "University of London→ Royal Academy of Music",
+        "numStudents": 820,
+        "latitude": 51.5233715,
+        "longitude": -0.1517215,
+        "numGreggsInViscinity": 27,
+        "greggsDensity": 32.926829268292686
+    },
+    {
+        "name": "University of London→ Royal Central School of Speech and Drama",
+        "numStudents": 1100,
+        "latitude": 51.54433439999999,
+        "longitude": -0.1742044999999999,
+        "numGreggsInViscinity": 11,
+        "greggsDensity": 10
+    },
+    {
+        "name": "University of London→ Royal Holloway, University of London",
+        "numStudents": 10325,
+        "latitude": 51.425673,
+        "longitude": -0.5630625,
+        "numGreggsInViscinity": 3,
+        "greggsDensity": 0.2905569007263923
+    },
+    {
+        "name": "University of London→ Royal Veterinary College",
+        "numStudents": 2375,
+        "latitude": 51.5366976,
+        "longitude": -0.1339696,
+        "numGreggsInViscinity": 26,
+        "greggsDensity": 10.947368421052632
+    },
+    {
+        "name": "University of London→ St George's, University of London",
+        "numStudents": 4855,
+        "latitude": 51.42740099999999,
+        "longitude": -0.1749356,
+        "numGreggsInViscinity": 15,
+        "greggsDensity": 3.089598352214212
+    },
+    {
+        "name": "University of London→ School of Oriental and African Studies",
+        "numStudents": 6360,
+        "latitude": 51.52235,
+        "longitude": -0.129259,
+        "numGreggsInViscinity": 32,
+        "greggsDensity": 5.031446540880503
+    },
+    {
+        "name": "University of London→ University College London",
+        "numStudents": 37905,
+        "latitude": 51.5245592,
+        "longitude": -0.1340401,
+        "numGreggsInViscinity": 31,
+        "greggsDensity": 0.8178340588312887
+    },
+    {
+        "name": "London Metropolitan University",
+        "numStudents": 12145,
+        "latitude": 51.55161699999999,
+        "longitude": -0.110715,
+        "numGreggsInViscinity": 23,
+        "greggsDensity": 1.8937834499794155
+    },
+    {
+        "name": "London South Bank University",
+        "numStudents": 17985,
+        "latitude": 51.4979806,
+        "longitude": -0.1023327,
+        "numGreggsInViscinity": 30,
+        "greggsDensity": 1.6680567139282736
+    },
+    {
+        "name": "Loughborough University",
+        "numStudents": 17130,
+        "latitude": 52.7650814,
+        "longitude": -1.2320534,
+        "numGreggsInViscinity": 3,
+        "greggsDensity": 0.17513134851138354
+    },
+    {
+        "name": "University of Manchester",
+        "numStudents": 40490,
+        "latitude": 53.4668498,
+        "longitude": -2.2338837,
+        "numGreggsInViscinity": 24,
+        "greggsDensity": 0.5927389478883675
+    },
+    {
+        "name": "Manchester Metropolitan University",
+        "numStudents": 33010,
+        "latitude": 53.4704767,
+        "longitude": -2.2394124,
+        "numGreggsInViscinity": 24,
+        "greggsDensity": 0.7270524083611027
+    },
+    {
+        "name": "Middlesex University",
+        "numStudents": 19505,
+        "latitude": 51.59013789999999,
+        "longitude": -0.228914,
+        "numGreggsInViscinity": 6,
+        "greggsDensity": 0.3076134324532171
+    },
+    {
+        "name": "Newcastle University",
+        "numStudents": 24980,
+        "latitude": 54.9791871,
+        "longitude": -1.6146608,
+        "numGreggsInViscinity": 36,
+        "greggsDensity": 1.4411529223378703
+    },
+    {
+        "name": "Newman University",
+        "numStudents": 2830,
+        "latitude": 52.4329957,
+        "longitude": -1.9936128,
+        "numGreggsInViscinity": 16,
+        "greggsDensity": 5.653710247349823
+    },
+    {
+        "name": "University of Northampton",
+        "numStudents": 12850,
+        "latitude": 52.27360729999999,
+        "longitude": -0.8824721999999999,
+        "numGreggsInViscinity": 6,
+        "greggsDensity": 0.46692607003891046
+    },
+    {
+        "name": "Northumbria University",
+        "numStudents": 26675,
+        "latitude": 54.979071,
+        "longitude": -1.6081362,
+        "numGreggsInViscinity": 38,
+        "greggsDensity": 1.424554826616682
+    },
+    {
+        "name": "Norwich University of the Arts",
+        "numStudents": 2180,
+        "latitude": 52.63031179999999,
+        "longitude": 1.2966966,
+        "numGreggsInViscinity": 8,
+        "greggsDensity": 3.669724770642202
+    },
+    {
+        "name": "University of Nottingham",
+        "numStudents": 32515,
+        "latitude": 52.93863599999999,
+        "longitude": -1.1951582,
+        "numGreggsInViscinity": 15,
+        "greggsDensity": 0.4613255420575119
+    },
+    {
+        "name": "Nottingham Trent University",
+        "numStudents": 29370,
+        "latitude": 52.9580712,
+        "longitude": -1.1540226,
+        "numGreggsInViscinity": 14,
+        "greggsDensity": 0.47667688117126317
+    },
+    {
+        "name": "Open University",
+        "numStudents": null,
+        "latitude": 52.0252055,
+        "longitude": -0.7090258,
+        "numGreggsInViscinity": 5,
+        "greggsDensity": null
+    },
+    {
+        "name": "University of Oxford",
+        "numStudents": 24650,
+        "latitude": 51.7548164,
+        "longitude": -1.2543668,
+        "numGreggsInViscinity": 2,
+        "greggsDensity": 0.08113590263691683
+    },
+    {
+        "name": "Oxford Brookes University",
+        "numStudents": 17805,
+        "latitude": 51.755011,
+        "longitude": -1.224225,
+        "numGreggsInViscinity": 3,
+        "greggsDensity": 0.16849199663016007
+    },
+    {
+        "name": "Plymouth University",
+        "numStudents": 21645,
+        "latitude": 50.3761866,
+        "longitude": -4.139491899999999,
+        "numGreggsInViscinity": 3,
+        "greggsDensity": 0.1386001386001386
+    },
+    {
+        "name": "University of Portsmouth",
+        "numStudents": 23505,
+        "latitude": 50.7951866,
+        "longitude": -1.0935923,
+        "numGreggsInViscinity": 8,
+        "greggsDensity": 0.3403531163582217
+    },
+    {
+        "name": "University of Reading",
+        "numStudents": 15840,
+        "latitude": 51.4414205,
+        "longitude": -0.9418157,
+        "numGreggsInViscinity": 9,
+        "greggsDensity": 0.5681818181818181
+    },
+    {
+        "name": "Roehampton University",
+        "numStudents": 10205,
+        "latitude": 51.4579866,
+        "longitude": -0.2432869,
+        "numGreggsInViscinity": 11,
+        "greggsDensity": 1.077902988731014
+    },
+    {
+        "name": "Royal Agricultural University",
+        "numStudents": 1280,
+        "latitude": 51.709324,
+        "longitude": -1.994646,
+        "numGreggsInViscinity": 1,
+        "greggsDensity": 0.78125
+    },
+    {
+        "name": "University of Salford",
+        "numStudents": 19995,
+        "latitude": 53.4864432,
+        "longitude": -2.273396,
+        "numGreggsInViscinity": 25,
+        "greggsDensity": 1.2503125781445361
+    },
+    {
+        "name": "University of Sheffield",
+        "numStudents": 28715,
+        "latitude": 53.3809409,
+        "longitude": -1.4879469,
+        "numGreggsInViscinity": 8,
+        "greggsDensity": 0.2786000348250044
+    },
+    {
+        "name": "Sheffield Hallam University",
+        "numStudents": 30815,
+        "latitude": 53.3780778,
+        "longitude": -1.466475,
+        "numGreggsInViscinity": 9,
+        "greggsDensity": 0.2920655524906701
+    },
+    {
+        "name": "University of Southampton",
+        "numStudents": 25180,
+        "latitude": 50.934189,
+        "longitude": -1.3956847,
+        "numGreggsInViscinity": 6,
+        "greggsDensity": 0.23828435266084194
+    },
+    {
+        "name": "Southampton Solent University",
+        "numStudents": 11060,
+        "latitude": 50.9086975,
+        "longitude": -1.4010889,
+        "numGreggsInViscinity": 5,
+        "greggsDensity": 0.4520795660036166
+    },
+    {
+        "name": "University of St Mark & St John",
+        "numStudents": 2415,
+        "latitude": 50.4197618,
+        "longitude": -4.1104325,
+        "numGreggsInViscinity": 1,
+        "greggsDensity": 0.4140786749482402
+    },
+    {
+        "name": "St Mary's University, Twickenham",
+        "numStudents": 5535,
+        "latitude": 51.437026,
+        "longitude": -0.3350701,
+        "numGreggsInViscinity": 9,
+        "greggsDensity": 1.6260162601626016
+    },
+    {
+        "name": "Staffordshire University",
+        "numStudents": 14910,
+        "latitude": 53.00906579999999,
+        "longitude": -2.176138299999999,
+        "numGreggsInViscinity": 6,
+        "greggsDensity": 0.40241448692152915
+    },
+    {
+        "name": "University of Suffolk",
+        "numStudents": 5080,
+        "latitude": 52.0540292,
+        "longitude": 1.1644968,
+        "numGreggsInViscinity": 7,
+        "greggsDensity": 1.3779527559055118
+    },
+    {
+        "name": "University of Sunderland",
+        "numStudents": 13020,
+        "latitude": 54.9117508,
+        "longitude": -1.373752,
+        "numGreggsInViscinity": 14,
+        "greggsDensity": 1.075268817204301
+    },
+    {
+        "name": "University of Surrey",
+        "numStudents": 16065,
+        "latitude": 51.25718579999999,
+        "longitude": -0.0002693,
+        "numGreggsInViscinity": 0,
+        "greggsDensity": 0
+    },
+    {
+        "name": "University of Sussex",
+        "numStudents": 16685,
+        "latitude": 50.86708950000001,
+        "longitude": -0.08791399999999999,
+        "numGreggsInViscinity": 0,
+        "greggsDensity": 0
+    },
+    {
+        "name": "Teesside University",
+        "numStudents": 18555,
+        "latitude": 54.5706383,
+        "longitude": -1.2352416,
+        "numGreggsInViscinity": 12,
+        "greggsDensity": 0.646725949878739
+    },
+    {
+        "name": "University of Warwick",
+        "numStudents": 25045,
+        "latitude": 52.37925250000001,
+        "longitude": -1.5614704,
+        "numGreggsInViscinity": 10,
+        "greggsDensity": 0.3992812936713915
+    },
+    {
+        "name": "University of West London",
+        "numStudents": 10390,
+        "latitude": 51.50688040000001,
+        "longitude": -0.3033577,
+        "numGreggsInViscinity": 7,
+        "greggsDensity": 0.6737247353224255
+    },
+    {
+        "name": "University of the West of England",
+        "numStudents": 27880,
+        "latitude": 51.5002821,
+        "longitude": -2.5480446,
+        "numGreggsInViscinity": 7,
+        "greggsDensity": 0.2510760401721664
+    },
+    {
+        "name": "University of Westminster",
+        "numStudents": 19650,
+        "latitude": 51.52058659999999,
+        "longitude": -0.141079,
+        "numGreggsInViscinity": 31,
+        "greggsDensity": 1.5776081424936388
+    },
+    {
+        "name": "University of Winchester",
+        "numStudents": 7540,
+        "latitude": 51.0597413,
+        "longitude": -1.3282474,
+        "numGreggsInViscinity": 1,
+        "greggsDensity": 0.1326259946949602
+    },
+    {
+        "name": "University of Wolverhampton",
+        "numStudents": 19560,
+        "latitude": 52.58817699999999,
+        "longitude": -2.1274393,
+        "numGreggsInViscinity": 13,
+        "greggsDensity": 0.6646216768916156
+    },
+    {
+        "name": "University of Worcester",
+        "numStudents": 10745,
+        "latitude": 52.1970053,
+        "longitude": -2.242825299999999,
+        "numGreggsInViscinity": 5,
+        "greggsDensity": 0.46533271288971617
+    },
+    {
+        "name": "Writtle University College",
+        "numStudents": 775,
+        "latitude": 51.736605,
+        "longitude": 0.4279639999999999,
+        "numGreggsInViscinity": 3,
+        "greggsDensity": 3.870967741935484
+    },
+    {
+        "name": "University of York",
+        "numStudents": 17900,
+        "latitude": 53.9461089,
+        "longitude": -1.0517718,
+        "numGreggsInViscinity": 5,
+        "greggsDensity": 0.27932960893854747
+    },
+    {
+        "name": "York St John University",
+        "numStudents": 5940,
+        "latitude": 53.9649139,
+        "longitude": -1.0800959,
+        "numGreggsInViscinity": 6,
+        "greggsDensity": 1.0101010101010102
+    }
+]

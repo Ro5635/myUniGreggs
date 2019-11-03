@@ -6,7 +6,6 @@ const readFile = util.promisify(fs.readFile);
 const cleanUniData = '../universities-cleaned.json';
 const cleanGreggsFile = '../greggs.json';
 const radius = 5000; // 5km
-const propietarySugar = 100; // magic number baby
 const propietarySugar = 1000; // magic number baby
 
 
@@ -77,8 +76,7 @@ const run = async () => {
     })
 
     // Dump this to a file
-    
-
+    fs.writeFileSync('./high_value_data.json', JSON.stringify(newUniversities, null, 4) , 'utf-8');
     console.log(newUniversities);
 
     // For each university
