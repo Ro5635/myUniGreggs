@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-    $.getJSON( "../cleanup_data/high_value_data.json", function( json ) {
+    $.getJSON( "high_value_data.json", function( json ) {
         // dump json to leaderboard
         const data = json;
         const sortedData = data.sort((gregg1, gregg2) => gregg1.greggsDensity > gregg2.greggsDensity ? -1 : 1)
